@@ -25,4 +25,6 @@ app.get('/tutorial/:id', (req, res) => {
 app.listen(port, ()=> {
     console.log('server running now', port)
 })
-app
+app.get('/tutorials', (req, res) => {
+    res.send(tutorials)
+})

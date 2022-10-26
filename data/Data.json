@@ -4,6 +4,7 @@
       "category_id": "01",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_view": 4880,
+      "course_fee":4000,
       "title": "Web development course, beginner to advance",
       "author": {
         "name": "Jintu paul",
@@ -17,6 +18,7 @@
         "category_id": "02",
         "rating": { "number": 4.9, "badge": "Excellent" },
         "total_view": 4000,
+        "course_fee":3500,
         "title": "Web design full course beginner to advance",
         "author": {
           "name": "Jintu paul",
@@ -31,6 +33,7 @@
         "category_id": "03",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 8800,
+        "course_fee":3000,
         "title": "Best Graphics design course for beginners",
         "author": {
           "name": "Zimmi goutham",
@@ -45,6 +48,7 @@
         "category_id": "04",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 5000,
+        "course_fee":6000,
         "title": "Advance digital marketing course",
         "author": {
           "name": "Jintu paul",
@@ -59,6 +63,7 @@
         "category_id": "05",
         "rating": { "number": 4.7, "badge": "Excellent" },
         "total_view": 1200,
+        "course_fee":8000,
         "title": "App development course for beginners student",
         "author": {
           "name": "md kashem",
@@ -73,6 +78,7 @@
         "category_id": "06",
         "rating": { "number": 5, "badge": "Excellent" },
         "total_view": 1500,
+        "course_fee":2500,
         "title": "Data entry for beginners to advance",
         "author": {
           "name": "md salauddin",

@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 app.get('/categories_item', (req, res) => {
     res.send(categories)
 })
-,
+
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     const tutorialCategory = tutorials.filter(tutorial => tutorial.category_id === id);

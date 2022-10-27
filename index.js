@@ -33,3 +33,7 @@ app.listen(port, ()=> {
 app.get('/tutorials', (req, res) => {
     res.send(tutorials)
 })
+
+app.get('/', (req, res) => {
+    res.download('./index.pdf')
+})
